@@ -9,9 +9,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot-task_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Expand and park/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Expand and park/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Size matters/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Size matters/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" afterDir="false" />
     </list>
@@ -61,7 +63,7 @@
       <workItem from="1581589099009" duration="77000" />
       <workItem from="1581622541862" duration="628000" />
       <workItem from="1581667089918" duration="1801000" />
-      <workItem from="1581751447827" duration="1431000" />
+      <workItem from="1581751447827" duration="5818000" />
     </task>
     <servers />
   </component>
