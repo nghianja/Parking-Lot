@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="346b1c7a-32e1-458b-adba-a27754fa2d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot-task_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot-task_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,8 @@
       <workItem from="1581587463576" duration="1533000" />
       <workItem from="1581589099009" duration="77000" />
       <workItem from="1581622541862" duration="628000" />
-      <workItem from="1581667089918" duration="1627000" />
+      <workItem from="1581667089918" duration="1801000" />
+      <workItem from="1581751447827" duration="1431000" />
     </task>
     <servers />
   </component>
@@ -70,11 +69,12 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1952" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1581667132325">
+    <state x="1952" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1581751449033">
       <screen x="1440" y="23" width="1920" height="1057" />
     </state>
     <state x="1952" y="350" key="com.intellij.ide.util.TipDialog/54.23.1386.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1581667132325" />
     <state x="424" y="294" key="com.intellij.ide.util.TipDialog/54.23.1386.877/1440.23.1920.1057@54.23.1386.877" timestamp="1581587487331" />
+    <state x="1952" y="350" key="com.intellij.ide.util.TipDialog/60.23.1380.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1581751449033" />
     <state x="428" y="294" key="com.intellij.ide.util.TipDialog/60.23.1380.877/1440.23.1920.1057@60.23.1380.877" timestamp="1581622770932" />
   </component>
 </project>
